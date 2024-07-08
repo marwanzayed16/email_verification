@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   </div>
 
   <main class="form-signin w-100 m-auto">
-    <h1>You Are Login</h1>
+    <h1>Your Email Has Been Successfully Hacked</h1>
     <form method="post">
       <button class="btn btn-primary w-100 py-2 mt-5" type="submit">
         Logout
